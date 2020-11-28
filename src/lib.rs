@@ -7,8 +7,6 @@
 #![allow(clippy::rc_buffer)]
 #![allow(clippy::to_string_in_display)]
 
-// force error
-modd boom;
 mod validate;
 
 pub mod actor;
