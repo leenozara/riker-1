@@ -1,4 +1,4 @@
-# Riker 1
+# Riker
 
 [![Build status](https://github.com/riker-rs/riker/workflows/Build%20and%20run%20tests/badge.svg)](https://github.com/riker-rs/riker/actions?query=workflow%3A%22Build+and+run+tests%22)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
